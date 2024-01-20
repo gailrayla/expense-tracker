@@ -33,27 +33,31 @@ Before running the Expense Tracker, make sure you have the following installed o
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/gailrayla/expense-tracker.git
+    ```bash
+    git clone https://github.com/gailrayla/expense-tracker.git
+    ```
 
 2. Navigate to your directory
 
-  ```bash
-  cd expense-tracker
+    ```bash
+    cd expense-tracker
+    ```
 
 3. Install the dependencies:
 
-   ```bash
-   npm install
+    ```bash
+    npm install
+    ```
 
 ### Usage
+
 To start the Expense Tracker, run the following command:
 
- ```bash
- npm start
+    ```bash
+    npm start
+    ```
 
 This will launch the application in your default web browser. Open http://localhost:3000 to view it.
-
 
 
   
