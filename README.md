@@ -37,7 +37,7 @@ Before running the Expense Tracker, make sure you have the following installed o
     git clone https://github.com/gailrayla/expense-tracker.git
     ```
 
-2. Navigate to your directory
+2. Navigate to your directory:
 
     ```bash
     cd expense-tracker
@@ -59,6 +59,4 @@ To start the Expense Tracker, run the following command:
 
 This will launch the application in your default web browser. Open http://localhost:3000 to view it.
 
-
-  
 
