@@ -50,8 +50,7 @@ Before running the Expense Tracker, make sure you have the following installed o
     ```
 
 ### Usage
-
-To start the Expense Tracker, run the following command:
+1. To start the Expense Tracker, run the following command:
 
     ```bash
     npm start
